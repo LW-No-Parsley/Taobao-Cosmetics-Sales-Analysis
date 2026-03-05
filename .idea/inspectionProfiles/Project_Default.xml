@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="IncorrectHttpHeaderInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="customHeaders">
+        <set>
+          <option value="    &quot;record_id&quot;" />
+          <option value="    &quot;age&quot;" />
+          <option value="    &quot;blood_pressure&quot;" />
+          <option value="    &quot;specific_gravity&quot;" />
+          <option value="    &quot;albumin&quot;" />
+          <option value="    &quot;sugar&quot;" />
+          <option value="    &quot;red_blood_cells&quot;" />
+          <option value="    &quot;pus_cell&quot;" />
+          <option value="    &quot;pus_cell_clumps&quot;" />
+          <option value="    &quot;bacteria&quot;" />
+          <option value="    &quot;blood_glucose_random&quot;" />
+          <option value="}'" />
+          <option value="    &quot;blood_urea&quot;" />
+        </set>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="后端.app.routes.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

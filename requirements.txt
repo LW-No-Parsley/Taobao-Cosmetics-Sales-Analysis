@@ -1,0 +1,5 @@
+jieba==0.42.1
+jieba3k==0.35.1
+matplotlib==3.10.3
+pandas==2.2.3
+seaborn==0.13.2
