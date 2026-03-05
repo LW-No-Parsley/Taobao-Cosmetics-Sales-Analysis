@@ -61,9 +61,3 @@ python main.py
 
 # 许可证
 该项目使用MIT许可证，详情请查阅LICENSE文件。
-
-# 联系信息
-如需帮助，请联系：
-- 邮箱: lw-no-parsley@example.com
-
----
